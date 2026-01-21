@@ -122,3 +122,6 @@ Dashboard (Visualization Layer)
   "risk_level": "RED"
 }
 
+<img width="1896" height="784" alt="image" src="https://github.com/user-attachments/assets/bd01638d-d970-4ffc-9ae5-5437dc5ac392" />
+
+
