@@ -20,29 +20,6 @@ The system focuses on reliability engineering rather than post-failure alerts, e
 ---
 
 ## 🧠 System Architecture
-
-# 🚀 Edge AI-Based Device Failure Prediction & Telemetry Monitoring System
-
-## 📌 Overview
-
-This project implements an end-to-end intelligent monitoring and failure prediction system for distributed edge and IoT devices. It continuously collects telemetry data, processes it in real time, and applies machine learning models to predict early signs of device failure before critical breakdowns occur.
-
-The system focuses on reliability engineering rather than post-failure alerts, enabling proactive maintenance and system health assurance.
-
----
-
-## 🎯 Objectives
-
-- Collect real-time telemetry from simulated edge devices  
-- Store and manage device health data in a structured database  
-- Engineer meaningful features from raw system metrics  
-- Train and deploy a machine learning model for failure risk prediction  
-- Expose system functionality through REST APIs  
-- Visualize device health and prediction results via a live dashboard  
-
----
-
-## 🧠 System Architecture
 Edge Devices (Simulator)
 ↓
 FastAPI Backend (REST APIs)
@@ -121,6 +98,7 @@ Dashboard (Visualization Layer)
   "failure_probability": 0.87,
   "risk_level": "RED"
 }
+
 
 
 
